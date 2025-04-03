@@ -18,7 +18,7 @@ Codify transforms your source code into stunning, shareable images with customiz
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/codify.git](https://github.com/chetanchaudhari789/Codify.git 
+git clone https://github.com/chetanchaudhari789/Codify.git
 cd codify
 ```
 
