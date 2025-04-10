@@ -15,7 +15,7 @@ export default function Header() {
         <div className="dark:text-gray-300 text-black text-sm flex items-center space-x-2">
           <p>Made with ❤️ by</p>
           <Link
-            href={"https://chetan-black.vercel.app/"}
+            href={"https://chetan1.vercel.app/"}
             target="_blank"
             className="dark:text-white text-black hover:text-purple-400 transition-colors underline"
           >
